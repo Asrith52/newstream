@@ -14,7 +14,7 @@
     - [+] ⚡️ Support 2GB + Files ⚡️
 - [x] Auto Filter
 - [x] Manual Filter
-- [x] IMDB
+- [x] IMDB.
 - [x] Admin Commands
 - [x] Broadcast
 - [x] Index
